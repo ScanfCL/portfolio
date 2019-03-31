@@ -1,0 +1,30 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "เค้ก 3 ชั้น",
+        "unitPrice": "200",
+        "thumbnail": "/imgs/logo-mango.png"
+      },
+      {
+        "id": 3,
+        "productName": "ไก่ทอด",
+        "unitPrice": "180",
+        "thumbnail": "/imgs/logo-mango.png"
+      },
+      {
+        "id": 4,
+        "productName": "เฟรนฟราย",
+        "unitPrice": "65",
+        "thumbnail": "/imgs/logo-mango.png"
+      },
+      {
+        "id": 5,
+        "productName": "กาแฟ",
+        "unitPrice": "80",
+        "thumbnail": "/imgs/logo-mango.png"
+      }
+    ],
+
+    "orders": [{}]
+}
